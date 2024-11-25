@@ -1,0 +1,97 @@
+{
+    "t": "v-time-picker",
+    "a": [
+        {
+            "k": "active-picker",
+            "v": ["HOUR", "MINUTE", "SECOND"]
+        },
+        {
+            "k": "allowed-hours",
+            "v": [null]
+        },
+        {
+            "k": "allowed-minutes",
+            "v": [null]
+        },
+        {
+            "k": "allowed-seconds",
+            "v": [null]
+        },
+        {
+            "k": "ampm-in-title",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "elevation",
+            "v": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+        },
+        {
+            "k": "flat",
+            "v": [true, false]
+        },
+        {
+            "k": "format",
+            "v": ["ampm", "24hr"]
+        },
+        {
+            "k": "full-width",
+            "v": [true, false]
+        },
+        {
+            "k": "header-color",
+            "v": [null]
+        },
+        {
+            "k": "landscape",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "max",
+            "v": [null]
+        },
+        {
+            "k": "min",
+            "v": [null]
+        },
+        {
+            "k": "no-title",
+            "v": [true, false]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "scrollable",
+            "v": [true, false]
+        },
+        {
+            "k": "use-seconds",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "width",
+            "v": [290]
+        }
+    ]
+}

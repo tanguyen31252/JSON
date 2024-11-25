@@ -1,0 +1,41 @@
+{
+    "t": "v-virtual-scroll",
+    "a": [
+        {
+            "k": "bench",
+            "v": [0]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "item-height",
+            "v": [null]
+        },
+        {
+            "k": "items",
+            "v": [null]
+        },
+        {
+            "k": "max-height",
+            "v": [null]
+        },
+        {
+            "k": "max-width",
+            "v": [null]
+        },
+        {
+            "k": "min-height",
+            "v": [null]
+        },
+        {
+            "k": "min-width",
+            "v": [null]
+        },
+        {
+            "k": "width",
+            "v": [null]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+  "t": "v-stepper-step",
+  "a": [
+    {
+      "k": "color",
+      "v": ["primary"]
+    },
+    {
+      "k": "complete",
+      "v": [true, false]
+    },
+    {
+      "k": "complete-icon",
+      "v": ["$complete"]
+    },
+    {
+      "k": "edit-icon",
+      "v": ["$edit"]
+    },
+    {
+      "k": "editable",
+      "v": [true, false]
+    },
+    {
+      "k": "error-icon",
+      "v": ["$error"]
+    },
+    {
+      "k": "rules",
+      "v": [true, false, null]
+    },
+    {
+      "k": "step",
+      "v": [null]
+    }
+  ]
+}

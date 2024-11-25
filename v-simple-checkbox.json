@@ -1,0 +1,45 @@
+{
+    "t": "v-checkbox",
+    "a": [
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "indeterminate",
+            "v": [true, false]
+        },
+        {
+            "k": "indeterminate-icon",
+            "v": ["$checkboxIndeterminate"]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "off-icon",
+            "v": ["$checkboxOff"]
+        },
+        {
+            "k": "on-icon",
+            "v": ["$checkboxOn"]
+        },
+        {
+            "k": "ripple",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [true, false]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "t": "v-skeleton-loader",
+    "a": [
+        {
+            "k": "boilerplate",
+            "v": [true, false]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "elevation",
+            "v": [null]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "loading",
+            "v": [true, false]
+        },
+        {
+            "k": "loading-text",
+            "v": ["$vuetify.loading"]
+        },
+        {
+            "k": "max-height",
+            "v": [null]
+        },
+        {
+            "k": "max-width",
+            "v": [null]
+        },
+        {
+            "k": "min-height",
+            "v": [null]
+        },
+        {
+            "k": "min-width",
+            "v": [null]
+        },
+        {
+            "k": "tile",
+            "v": [true, false]
+        },
+        {
+            "k": "transition",
+            "v": [null]
+        },
+        {
+            "k": "type",
+            "v": [null]
+        },
+        {
+            "k": "types",
+            "v": [{}]
+        },
+        {
+            "k": "width",
+            "v": [null]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "t": "v-stepper",
+    "a": [
+        {
+            "k": "alt-labels",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "elevation",
+            "v": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+        },
+        {
+            "k": "flat",
+            "v": [true, false]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "max-height",
+            "v": [null]
+        },
+        {
+            "k": "max-width",
+            "v": [null]
+        },
+        {
+            "k": "min-height",
+            "v": [null]
+        },
+        {
+            "k": "min-width",
+            "v": [null]
+        },
+        {
+            "k": "non-linear",
+            "v": [true, false]
+        },
+        {
+            "k": "outlined",
+            "v": [true, false]
+        },
+        {
+            "k": "rounded",
+            "v": [null]
+        },
+        {
+            "k": "shaped",
+            "v": [true, false]
+        },
+        {
+            "k": "tag",
+            "v": ["div"]
+        },
+        {
+            "k": "tile",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "vertical",
+            "v": [true, false]
+        },
+        {
+            "k": "width",
+            "v": [null]
+        }
+    ]
+}

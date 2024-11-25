@@ -1,0 +1,145 @@
+{
+  "t": "v-treeview",
+  "a": [
+    {
+      "k": "activatable",
+      "v": [true, false]
+    },
+    {
+      "k": "active",
+      "v": [null]
+    },
+    {
+      "k": "active-class",
+      "v": ["v-treeview-node--active"]
+    },
+    {
+      "k": "color",
+      "v": ["primary","success","error"]
+    },
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "dense",
+      "v": [true, false]
+    },
+    {
+      "k": "disable-per-node",
+      "v": [true, false]
+    },
+    {
+      "k": "disabled",
+      "v": [true, false]
+    },
+    {
+      "k": "expand-icon",
+      "v": ["$subgroup"]
+    },
+    {
+      "k": "filter",
+      "v": [null]
+    },
+    {
+      "k": "hoverable",
+      "v": [true, false]
+    },
+    {
+      "k": "indeterminate-icon",
+      "v": ["$checkboxIndeterminate"]
+    },
+    {
+      "k": "item-children",
+      "v": ["children"]
+    },
+    {
+      "k": "item-disabled",
+      "v": ["disabled"]
+    },
+    {
+      "k": "item-key",
+      "v": ["id"]
+    },
+    {
+      "k": "item-text",
+      "v": ["name"]
+    },
+    {
+      "k": "items",
+      "v": [null]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    },
+    {
+      "k": "load-children",
+      "v": [null]
+    },
+    {
+      "k": "loading-icon",
+      "v": ["$loading"]
+    },
+    {
+      "k": "multiple-active",
+      "v": [true, false]
+    },
+    {
+      "k": "off-icon",
+      "v": ["$checkboxOff"]
+    },
+    {
+      "k": "on-icon",
+      "v": ["$checkboxOn"]
+    },
+    {
+      "k": "open",
+      "v": [null]
+    },
+    {
+      "k": "open-all",
+      "v": [true, false]
+    },
+    {
+      "k": "open-on-click",
+      "v": [true, false]
+    },
+    {
+      "k": "return-object",
+      "v": [true, false]
+    },
+    {
+      "k": "rounded",
+      "v": [true, false]
+    },
+    {
+      "k": "search",
+      "v": [null]
+    },
+    {
+      "k": "selectable",
+      "v": [true, false]
+    },
+    {
+      "k": "selected-color",
+      "v": ["accent"]
+    },
+    {
+      "k": "selection-type",
+      "v": ["leaf"]
+    },
+    {
+      "k": "shaped",
+      "v": [true, false]
+    },
+    {
+      "k": "transition",
+      "v": [true, false]
+    },
+    {
+      "k": "value",
+      "v": [null]
+    }
+  ]
+}

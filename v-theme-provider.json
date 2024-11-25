@@ -1,0 +1,17 @@
+{
+  "t": "v-theme-provider",
+  "a": [
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    },
+    {
+      "k": "root",
+      "v": [true, false]
+    }
+  ]
+}

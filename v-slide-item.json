@@ -1,0 +1,17 @@
+{
+    "t": "v-slide-item",
+    "a": [
+        {
+            "k": "active-class",
+            "v": [null]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        }
+    ]
+}

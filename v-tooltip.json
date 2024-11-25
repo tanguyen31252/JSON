@@ -1,0 +1,133 @@
+{
+    "t": "v-tooltip",
+    "a": [
+        {
+            "k": "absolute",
+            "v": [true, false]
+        },
+        {
+            "k": "activator",
+            "v": [null]
+        },
+        {
+            "k": "allow-overflow",
+            "v": [true, false]
+        },
+        {
+            "k": "attach",
+            "v": [false]
+        },
+        {
+            "k": "bottom",
+            "v": [true, false]
+        },
+        {
+            "k": "close-delay",
+            "v": [0]
+        },
+        {
+            "k": "color",
+            "v": ["primary","success","error"]
+        },
+        {
+            "k": "content-class",
+            "v": [null]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "eager",
+            "v": [true, false]
+        },
+        {
+            "k": "internal-activator",
+            "v": [true, false]
+        },
+        {
+            "k": "left",
+            "v": [true, false]
+        },
+        {
+            "k": "max-width",
+            "v": ["auto"]
+        },
+        {
+            "k": "min-width",
+            "v": [null]
+        },
+        {
+            "k": "nudge-bottom",
+            "v": [0]
+        },
+        {
+            "k": "nudge-left",
+            "v": [0]
+        },
+        {
+            "k": "nudge-right",
+            "v": [0]
+        },
+        {
+            "k": "nudge-top",
+            "v": [0]
+        },
+        {
+            "k": "nudge-width",
+            "v": [0]
+        },
+        {
+            "k": "offset-overflow",
+            "v": [true, false]
+        },
+        {
+            "k": "open-delay",
+            "v": [0]
+        },
+        {
+            "k": "open-on-click",
+            "v": [true, false]
+        },
+        {
+            "k": "open-on-focus",
+            "v": [true, false]
+        },
+        {
+            "k": "open-on-hover",
+            "v": [true, false]
+        },
+        {
+            "k": "position-x",
+            "v": [null]
+        },
+        {
+            "k": "position-y",
+            "v": [null]
+        },
+        {
+            "k": "right",
+            "v": [true, false]
+        },
+        {
+            "k": "tag",
+            "v": ["span", null]
+        },
+        {
+            "k": "top",
+            "v": [true, false]
+        },
+        {
+            "k": "transition",
+            "v": [null]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "z-index",
+            "v": [null]
+        }
+    ]
+}

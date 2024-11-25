@@ -1,0 +1,133 @@
+{
+    "t": "v-switch",
+    "a": [
+        {
+            "k": "append-icon",
+            "v": [null]
+        },
+        {
+            "k": "background-color",
+            "v": [null]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "error",
+            "v": [true, false]
+        },
+        {
+            "k": "error-count",
+            "v": [1]
+        },
+        {
+            "k": "error-messages",
+            "v": [null]
+        },
+        {
+            "k": "false-value",
+            "v": [null]
+        },
+        {
+            "k": "flat",
+            "v": [true, false]
+        },
+        {
+            "k": "hide-details",
+            "v": [null]
+        },
+        {
+            "k": "hint",
+            "v": [null]
+        },
+        {
+            "k": "id",
+            "v": [null]
+        },
+        {
+            "k": "input-value",
+            "v": [null]
+        },
+        {
+            "k": "inset",
+            "v": [true, false]
+        },
+        {
+            "k": "label",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "loading",
+            "v": [true, false]
+        },
+        {
+            "k": "messages",
+            "v": [null]
+        },
+        {
+            "k": "multiple",
+            "v": [true, false]
+        },
+        {
+            "k": "persistent-hint",
+            "v": [true, false]
+        },
+        {
+            "k": "prepend-icon",
+            "v": [null]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "ripple",
+            "v": [true, false]
+        },
+        {
+            "k": "rules",
+            "v": [null]
+        },
+        {
+            "k": "success",
+            "v": [true, false]
+        },
+        {
+            "k": "success-messages",
+            "v": [null]
+        },
+        {
+            "k": "true-value",
+            "v": [null]
+        },
+        {
+            "k": "validate-on-blur",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "value-comparator",
+            "v": [null]
+        }
+    ]
+}

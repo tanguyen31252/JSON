@@ -1,0 +1,37 @@
+{
+    "t": "v-window",
+    "a": [
+        {
+            "k": "active-class",
+            "v": [null]
+        },
+        {
+            "k": "continuous",
+            "v": [true, false]
+        },
+        {
+            "k": "reverse",
+            "v": [true, false]
+        },
+        {
+            "k": "show-arrows",
+            "v": [true, false]
+        },
+        {
+            "k": "touch",
+            "v": [ null]
+        },
+        {
+            "k": "touchless",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "vertical",
+            "v": [true, false]
+        }
+    ]
+}

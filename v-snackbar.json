@@ -1,0 +1,121 @@
+{
+    "t": "v-snackbar",
+    "a": [
+        {
+            "k": "absolute",
+            "v": [true, false]
+        },
+        {
+            "k": "app",
+            "v": [true, false]
+        },
+        {
+            "k": "bottom",
+            "v": [true, false]
+        },
+        {
+            "k": "centered",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "content-class",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "elevation",
+            "v": [null]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "left",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "max-height",
+            "v": [null]
+        },
+        {
+            "k": "max-width",
+            "v": [null]
+        },
+        {
+            "k": "min-height",
+            "v": [null]
+        },
+        {
+            "k": "min-width",
+            "v": [null]
+        },
+        {
+            "k": "multi-line",
+            "v": [true, false]
+        },
+        {
+            "k": "outlined",
+            "v": [true, false]
+        },
+        {
+            "k": "right",
+            "v": [true, false]
+        },
+        {
+            "k": "rounded",
+            "v": [null]
+        },
+        {
+            "k": "shaped",
+            "v": [true, false]
+        },
+        {
+            "k": "tag",
+            "v": ["div"]
+        },
+        {
+            "k": "text",
+            "v": [true, false]
+        },
+        {
+            "k": "tile",
+            "v": [true, false]
+        },
+        {
+            "k": "timeout",
+            "v": [5000]
+        },
+        {
+            "k": "top",
+            "v": [true, false]
+        },
+        {
+            "k": "transition",
+            "v": ["v-snack-transition"]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "vertical",
+            "v": [true, false]
+        },
+        {
+            "k": "width",
+            "v": [null]
+        }
+    ]
+}

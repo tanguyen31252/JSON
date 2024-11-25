@@ -1,0 +1,201 @@
+{
+    "t": "v-text-field",
+    "a": [
+        {
+            "k": "append-icon",
+            "v": [null]
+        },
+        {
+            "k": "append-outer-icon",
+            "v": [null]
+        },
+        {
+            "k": "autofocus",
+            "v": [true, false]
+        },
+        {
+            "k": "background-color",
+            "v": [null]
+        },
+        {
+            "k": "clear-icon",
+            "v": ["$clear"]
+        },
+        {
+            "k": "clearable",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "counter",
+            "v": [null]
+        },
+        {
+            "k": "counter-value",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "error",
+            "v": [true, false]
+        },
+        {
+            "k": "error-count",
+            "v": [1]
+        },
+        {
+            "k": "error-messages",
+            "v": [null]
+        },
+        {
+            "k": "filled",
+            "v": [true, false]
+        },
+        {
+            "k": "flat",
+            "v": [true, false]
+        },
+        {
+            "k": "full-width",
+            "v": [true, false]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "hide-details",
+            "v": [null]
+        },
+        {
+            "k": "hide-spin-buttons",
+            "v": [true, false]
+        },
+        {
+            "k": "hint",
+            "v": [null]
+        },
+        {
+            "k": "id",
+            "v": [null]
+        },
+        {
+            "k": "label",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "loader-height",
+            "v": [2]
+        },
+        {
+            "k": "loading",
+            "v": [true, false]
+        },
+        {
+            "k": "messages",
+            "v": [null]
+        },
+        {
+            "k": "outlined",
+            "v": [true, false]
+        },
+        {
+            "k": "persistent-hint",
+            "v": [true, false]
+        },
+        {
+            "k": "persistent-placeholder",
+            "v": [true, false]
+        },
+        {
+            "k": "placeholder",
+            "v": [null]
+        },
+        {
+            "k": "prefix",
+            "v": [null]
+        },
+        {
+            "k": "prepend-icon",
+            "v": [null]
+        },
+        {
+            "k": "prepend-inner-icon",
+            "v": [null]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "reverse",
+            "v": [true, false]
+        },
+        {
+            "k": "rounded",
+            "v": [true, false]
+        },
+        {
+            "k": "rules",
+            "v": [null]
+        },
+        {
+            "k": "shaped",
+            "v": [true, false]
+        },
+        {
+            "k": "single-line",
+            "v": [true, false]
+        },
+        {
+            "k": "solo",
+            "v": [true, false]
+        },
+        {
+            "k": "solo-inverted",
+            "v": [true, false]
+        },
+        {
+            "k": "success",
+            "v": [true, false]
+        },
+        {
+            "k": "success-messages",
+            "v": [null]
+        },
+        {
+            "k": "suffix",
+            "v": [null]
+        },
+        {
+            "k": "type",
+            "v": ["text"]
+        },
+        {
+            "k": "validate-on-blur",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        }
+    ]
+}

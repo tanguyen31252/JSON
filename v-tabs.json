@@ -1,0 +1,97 @@
+{
+  "t": "v-tabs",
+  "a": [
+    {
+      "k": "active-class",
+      "v": [null]
+    },
+    {
+      "k": "align-with-title",
+      "v": [true, false]
+    },
+    {
+      "k": "background-color",
+      "v": [null]
+    },
+    {
+      "k": "center-active",
+      "v": [true, false]
+    },
+    {
+      "k": "centered",
+      "v": [true, false]
+    },
+    {
+      "k": "color",
+      "v": [null]
+    },
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "fixed-tabs",
+      "v": [true, false]
+    },
+    {
+      "k": "grow",
+      "v": [true, false]
+    },
+    {
+      "k": "height",
+      "v": [null]
+    },
+    {
+      "k": "hide-slider",
+      "v": [true, false]
+    },
+    {
+      "k": "icons-and-text",
+      "v": [true, false]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    },
+    {
+      "k": "mobile-breakpoint",
+      "v": [null]
+    },
+    {
+      "k": "next-icon",
+      "v": ["$next"]
+    },
+    {
+      "k": "optional",
+      "v": [true, false]
+    },
+    {
+      "k": "prev-icon",
+      "v": ["$prev"]
+    },
+    {
+      "k": "right",
+      "v": [true, false]
+    },
+    {
+      "k": "show-arrows",
+      "v": [null]
+    },
+    {
+      "k": "slider-color",
+      "v": [null]
+    },
+    {
+      "k": "slider-size",
+      "v": [2]
+    },
+    {
+      "k": "value",
+      "v": [null]
+    },
+    {
+      "k": "vertical",
+      "v": [true, false]
+    }
+  ]
+}

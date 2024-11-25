@@ -1,0 +1,77 @@
+{
+    "t": "v-sparkline",
+    "a": [
+        {
+            "k": "auto-draw",
+            "v": [true, false]
+        },
+        {
+            "k": "auto-draw-duration",
+            "v": [2000]
+        },
+        {
+            "k": "auto-draw-easing",
+            "v": ["ease"]
+        },
+        {
+            "k": "auto-line-width",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": ["primary"]
+        },
+        {
+            "k": "fill",
+            "v": [true, false]
+        },
+        {
+            "k": "gradient",
+            "v": [[]]
+        },
+        {
+            "k": "gradient-direction",
+            "v": ["top"]
+        },
+        {
+            "k": "height",
+            "v": [75]
+        },
+        {
+            "k": "label-size",
+            "v": [7]
+        },
+        {
+            "k": "labels",
+            "v": [[]]
+        },
+        {
+            "k": "line-width",
+            "v": [4]
+        },
+        {
+            "k": "padding",
+            "v": [8]
+        },
+        {
+            "k": "show-labels",
+            "v": [true, false]
+        },
+        {
+            "k": "smooth",
+            "v": [true, false]
+        },
+        {
+            "k": "type",
+            "v": ["trend","bars"]
+        },
+        {
+            "k": "value",
+            "v": [[]]
+        },
+        {
+            "k": "width",
+            "v": [300]
+        }
+    ]
+}

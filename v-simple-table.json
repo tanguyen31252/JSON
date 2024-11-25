@@ -1,0 +1,25 @@
+{
+    "t": "v-simple-table",
+    "a": [
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "fixed-header",
+            "v": [true, false]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        }
+    ]
+}

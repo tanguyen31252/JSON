@@ -1,0 +1,25 @@
+{
+    "t": "v-timeline",
+    "a": [
+        {
+            "k": "align-top",
+            "v": [true, false]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "reverse",
+            "v": [true, false]
+        }
+    ]
+}

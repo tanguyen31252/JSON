@@ -1,0 +1,29 @@
+{
+  "t": "v-window-item",
+  "a": [
+    {
+      "k": "active-class",
+      "v": [null]
+    },
+    {
+      "k": "disabled",
+      "v": [true, false]
+    },
+    {
+      "k": "eager",
+      "v": [true, false]
+    },
+    {
+      "k": "reverse-transition",
+      "v": [true, false, null]
+    },
+    {
+      "k": "transition",
+      "v": [true, false, null]
+    },
+    {
+      "k": "value",
+      "v": [null]
+    }
+  ]
+}

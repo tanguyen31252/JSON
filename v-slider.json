@@ -1,0 +1,161 @@
+{
+    "t": "v-slider",
+    "a": [
+        {
+            "k": "append-icon",
+            "v": [null]
+        },
+        {
+            "k": "background-color",
+            "v": [null]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "error",
+            "v": [true, false]
+        },
+        {
+            "k": "error-count",
+            "v": [1]
+        },
+        {
+            "k": "error-messages",
+            "v": [null]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "hide-details",
+            "v": [null]
+        },
+        {
+            "k": "hint",
+            "v": [null]
+        },
+        {
+            "k": "id",
+            "v": [null]
+        },
+        {
+            "k": "inverse-label",
+            "v": [true, false]
+        },
+        {
+            "k": "label",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "loader-height",
+            "v": [2]
+        },
+        {
+            "k": "loading",
+            "v": [true, false]
+        },
+        {
+            "k": "max",
+            "v": [100]
+        },
+        {
+            "k": "messages",
+            "v": [null]
+        },
+        {
+            "k": "min",
+            "v": [0]
+        },
+        {
+            "k": "persistent-hint",
+            "v": [true, false]
+        },
+        {
+            "k": "prepend-icon",
+            "v": [null]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "rules",
+            "v": [null]
+        },
+        {
+            "k": "step",
+            "v": [1]
+        },
+        {
+            "k": "success",
+            "v": [true, false]
+        },
+        {
+            "k": "success-messages",
+            "v": [null]
+        },
+        {
+            "k": "thumb-color",
+            "v": [null]
+        },
+        {
+            "k": "thumb-label",
+            "v": [true, false, "always"]
+        },
+        {
+            "k": "thumb-size",
+            "v": [32]
+        },
+        {
+            "k": "tick-labels",
+            "v": [null]
+        },
+        {
+            "k": "tick-size",
+            "v": [2]
+        },
+        {
+            "k": "ticks",
+            "v": [true, false, "always"]
+        },
+        {
+            "k": "track-color",
+            "v": [null]
+        },
+        {
+            "k": "track-fill-color",
+            "v": [null]
+        },
+        {
+            "k": "validate-on-blur",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "vertical",
+            "v": [true, false]
+        }
+    ]
+}

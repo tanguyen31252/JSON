@@ -1,0 +1,17 @@
+{
+  "t": "v-subheader",
+  "a": [
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "inset",
+      "v": [true, false]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    }
+  ]
+}

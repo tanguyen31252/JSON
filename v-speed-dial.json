@@ -1,0 +1,53 @@
+{
+    "t": "v-speed-dial",
+    "a": [
+        {
+            "k": "absolute",
+            "v": [true, false]
+        },
+        {
+            "k": "bottom",
+            "v": [true, false]
+        },
+        {
+            "k": "direction",
+            "v": ["top","bottom","right","left"]
+        },
+        {
+            "k": "fixed",
+            "v": [true, false]
+        },
+        {
+            "k": "left",
+            "v": [true, false]
+        },
+        {
+            "k": "mode",
+            "v": [null]
+        },
+        {
+            "k": "open-on-hover",
+            "v": [true, false]
+        },
+        {
+            "k": "origin",
+            "v": [null]
+        },
+        {
+            "k": "right",
+            "v": [true, false]
+        },
+        {
+            "k": "top",
+            "v": [true, false]
+        },
+        {
+            "k": "transition",
+            "v": ["scale-transition"]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        }
+    ]
+}

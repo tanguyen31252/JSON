@@ -1,0 +1,61 @@
+{
+    "t": "v-slide-group",
+    "a": [
+        {
+            "k": "active-class",
+            "v": ["v-slide-item--active"]
+        },
+        {
+            "k": "center-active",
+            "v": [true, false]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "mandatory",
+            "v": [true, false]
+        },
+        {
+            "k": "max",
+            "v": [null]
+        },
+        {
+            "k": "mobile-breakpoint",
+            "v": [null]
+        },
+        {
+            "k": "multiple",
+            "v": [true, false]
+        },
+        {
+            "k": "next-icon",
+            "v": ["$next"]
+        },
+        {
+            "k": "prev-icon",
+            "v": ["$prev"]
+        },
+        {
+            "k": "show-arrows",
+            "v": [true, false, "always", "never"]
+        },
+        {
+            "k": "tag",
+            "v": ["div"]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "value-comparator",
+            "v": [null]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "t": "v-tabs-item",
+    "a": [
+        {
+            "k": "active-class",
+            "v": ["v-window-item--active"]
+        },
+        {
+            "k": "continuous",
+            "v": [true, false]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "mandatory",
+            "v": [true, false]
+        },
+        {
+            "k": "max",
+            "v": [null]
+        },
+        {
+            "k": "multiple",
+            "v": [true, false]
+        },
+        {
+            "k": "next-icon",
+            "v": ["$next"]
+        },
+        {
+            "k": "prev-icon",
+            "v": ["$prev"]
+        },
+        {
+            "k": "reverse",
+            "v": [true, false]
+        },
+        {
+            "k": "show-arrows",
+            "v": [true, false]
+        },
+        {
+            "k": "show-arrows-on-hover",
+            "v": [true, false]
+        },
+        {
+            "k": "tag",
+            "v": ["div"]
+        },
+        {
+            "k": "touch",
+            "v": [null]
+        },
+        {
+            "k": "touchless",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "value-comparator",
+            "v": [null]
+        },
+        {
+            "k": "vertical",
+            "v": [true, false]
+        }
+    ]
+}

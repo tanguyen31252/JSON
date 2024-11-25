@@ -1,0 +1,109 @@
+{
+    "t": "v-toolbar",
+    "a": [
+        {
+            "k": "absolute",
+            "v": [true, false]
+        },
+        {
+            "k": "bottom",
+            "v": [true, false]
+        },
+        {
+            "k": "collapse",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": ["primary", "success", "error"]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "elevation",
+            "v": [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24]
+        },
+        {
+            "k": "extended",
+            "v": [true, false]
+        },
+        {
+            "k": "extension-height",
+            "v": [48]
+        },
+        {
+            "k": "flat",
+            "v": [true, false]
+        },
+        {
+            "k": "floating",
+            "v": [true, false]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "max-height",
+            "v": [null]
+        },
+        {
+            "k": "max-width",
+            "v": [null]
+        },
+        {
+            "k": "min-height",
+            "v": [null]
+        },
+        {
+            "k": "min-width",
+            "v": [null]
+        },
+        {
+            "k": "outlined",
+            "v": [true, false]
+        },
+        {
+            "k": "prominent",
+            "v": [true, false]
+        },
+        {
+            "k": "rounded",
+            "v": ["boolean", "string", null]
+        },
+        {
+            "k": "shaped",
+            "v": [true, false]
+        },
+        {
+            "k": "short",
+            "v": [true, false]
+        },
+        {
+            "k": "src",
+            "v": ["string", "object", null]
+        },
+        {
+            "k": "tag",
+            "v": ["header", null]
+        },
+        {
+            "k": "tile",
+            "v": [true, false]
+        },
+        {
+            "k": "width",
+            "v": [null]
+        }
+    ]
+}

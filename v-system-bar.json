@@ -1,0 +1,41 @@
+{
+    "t": "v-system-bar",
+    "a": [
+        {
+            "k": "absolute",
+            "v": [true, false]
+        },
+        {
+            "k": "app",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "fixed",
+            "v": [true, false]
+        },
+        {
+            "k": "height",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "lights-out",
+            "v": [true, false]
+        },
+        {
+            "k": "window",
+            "v": [true, false]
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+  "t": "v-sheet",
+  "a": [
+    {
+      "k": "color",
+      "v": [null]
+    },
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "elevation",
+      "v": [null]
+    },
+    {
+      "k": "height",
+      "v": [null]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    },
+    {
+      "k": "max-height",
+      "v": [null]
+    },
+    {
+      "k": "max-width",
+      "v": [null]
+    },
+    {
+      "k": "min-height",
+      "v": [null]
+    },
+    {
+      "k": "min-width",
+      "v": [null]
+    },
+    {
+      "k": "outlined",
+      "v": [true, false]
+    },
+    {
+      "k": "rounded",
+      "v": [null]
+    },
+    {
+      "k": "shaped",
+      "v": [true, false]
+    },
+    {
+      "k": "tag",
+      "v": ["div"]
+    },
+    {
+      "k": "tile",
+      "v": [true, false]
+    },
+    {
+      "k": "width",
+      "v": [null]
+    }
+  ]
+}

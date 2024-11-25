@@ -1,0 +1,49 @@
+{
+    "t": "v-timeline-item",
+    "a": [
+        {
+            "k": "color",
+            "v": ["primary", "success", "error"]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "fill-dot",
+            "v": [true, false]
+        },
+        {
+            "k": "hide-dot",
+            "v": [true, false]
+        },
+        {
+            "k": "icon",
+            "v": [null]
+        },
+        {
+            "k": "icon-color",
+            "v": [null]
+        },
+        {
+            "k": "large",
+            "v": [true, false]
+        },
+        {
+            "k": "left",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "right",
+            "v": [true, false]
+        },
+        {
+            "k": "small",
+            "v": [true, false]
+        }
+    ]
+}

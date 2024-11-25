@@ -1,0 +1,33 @@
+{
+    "t": "v-tab-item",
+    "a": [
+        {
+            "k": "active-class",
+            "v": [null]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "eager",
+            "v": [true, false]
+        },
+        {
+            "k": "id",
+            "v": [null]
+        },
+        {
+            "k": "reverse-transition",
+            "v": [null]
+        },
+        {
+            "k": "transition",
+            "v": [null]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        }
+    ]
+}
