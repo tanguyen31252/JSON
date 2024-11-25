@@ -1,0 +1,53 @@
+{
+  "t": "v-avatar",
+  "a": [
+    {
+      "k": "color",
+      "v": [null]
+    },
+    {
+      "k": "height",
+      "v": [null]
+    },
+    {
+      "k": "left",
+      "v": [true, false]
+    },
+    {
+      "k": "max-height",
+      "v": [null]
+    },
+    {
+      "k": "max-width",
+      "v": [null]
+    },
+    {
+      "k": "min-height",
+      "v": [null]
+    },
+    {
+      "k": "min-width",
+      "v": [null]
+    },
+    {
+      "k": "right",
+      "v": [true, false]
+    },
+    {
+      "k": "rounded",
+      "v": [true, false, null]
+    },
+    {
+      "k": "size",
+      "v": [null]
+    },
+    {
+      "k": "tile",
+      "v": [true, false]
+    },
+    {
+      "k": "width",
+      "v": [null]
+    }
+  ]
+}

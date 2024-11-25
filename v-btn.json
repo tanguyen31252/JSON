@@ -1,0 +1,202 @@
+{
+    "t": "v-btn",
+    "a": [
+      {
+        "k": "absolute",
+        "v": [true, false]
+      },
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "append",
+        "v": [true, false]
+      },
+      {
+        "k": "block",
+        "v": [true, false]
+      },
+      {
+        "k": "bottom",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "depressed",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "elevation",
+        "v": [null]
+      },
+      {
+        "k": "exact",
+        "v": [true, false]
+      },
+      {
+        "k": "exact-active-class",
+        "v": [null]
+      },
+      {
+        "k": "exact-path",
+        "v": [true, false]
+      },
+      {
+        "k": "fab",
+        "v": [true, false]
+      },
+      {
+        "k": "fixed",
+        "v": [true, false]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "href",
+        "v": [null]
+      },
+      {
+        "k": "icon",
+        "v": [true, false]
+      },
+      {
+        "k": "input-value",
+        "v": ["any"]
+      },
+      {
+        "k": "large",
+        "v": [true, false]
+      },
+      {
+        "k": "left",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "link",
+        "v": [true, false]
+      },
+      {
+        "k": "loading",
+        "v": [true, false]
+      },
+      {
+        "k": "max-height",
+        "v": [null]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "min-height",
+        "v": [null]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "nuxt",
+        "v": [true, false]
+      },
+      {
+        "k": "outlined",
+        "v": [true, false]
+      },
+      {
+        "k": "plain",
+        "v": [true, false]
+      },
+      {
+        "k": "replace",
+        "v": [true, false]
+      },
+      {
+        "k": "retain-focus-on-click",
+        "v": [true, false]
+      },
+      {
+        "k": "right",
+        "v": [true, false]
+      },
+      {
+        "k": "ripple",
+        "v": [true, false, "object"]
+      },
+      {
+        "k": "rounded",
+        "v": [true, false]
+      },
+      {
+        "k": "shaped",
+        "v": [true, false]
+      },
+      {
+        "k": "small",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "target",
+        "v": [null]
+      },
+      {
+        "k": "text",
+        "v": [true, false]
+      },
+      {
+        "k": "tile",
+        "v": [true, false]
+      },
+      {
+        "k": "to",
+        "v": [null]
+      },
+      {
+        "k": "top",
+        "v": [true, false]
+      },
+      {
+        "k": "type",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": ["any"]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      },
+      {
+        "k": "x-large",
+        "v": [true, false]
+      },
+      {
+        "k": "x-small",
+        "v": [true, false]
+      }
+    ]
+  }
+  

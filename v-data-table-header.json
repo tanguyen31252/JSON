@@ -1,0 +1,58 @@
+{
+    "t": "v-data-table-header",
+    "a": [
+      {
+        "k": "checkbox-color",
+        "v": [null]
+      },
+      {
+        "k": "disable-sort",
+        "v": [true,false]
+      },
+      {
+        "k": "every-item",
+        "v": [true,false]
+      },
+      {
+        "k": "headers",
+        "v": [[]]
+      },
+      {
+        "k": "mobile",
+        "v": [true,false]
+      },
+      {
+        "k": "options",
+        "v": [{
+          "page": 1,
+          "itemsPerPage": 10,
+          "sortBy": [],
+          "sortDesc": [],
+          "groupBy": [],
+          "groupDesc": [],
+          "multiSort": [true,false],
+          "mustSort": [true,false]
+        }]
+      },
+      {
+        "k": "show-group-by",
+        "v": [true,false]
+      },
+      {
+        "k": "single-select",
+        "v": [true,false]
+      },
+      {
+        "k": "some-items",
+        "v": [true,false]
+      },
+      {
+        "k": "sort-by-text",
+        "v": [null]
+      },
+      {
+        "k": "sort-icon",
+        "v": [null]
+      }
+    ]
+  }

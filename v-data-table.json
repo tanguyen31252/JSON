@@ -1,0 +1,213 @@
+{
+    "t": "v-data-table",
+    "a": [
+      {
+        "k": "calculate-widths",
+        "v": [true, false]
+      },
+      {
+        "k": "caption",
+        "v": [null]
+      },
+      {
+        "k": "checkbox-color",
+        "v": [null]
+      },
+      {
+        "k": "custom-filter",
+        "v": [null]
+      },
+      {
+        "k": "custom-group",
+        "v": [null]
+      },
+      {
+        "k": "custom-sort",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-filtering",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-pagination",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-sort",
+        "v": [true, false]
+      },
+      {
+        "k": "expand-icon",
+        "v": [null]
+      },
+      {
+        "k": "expanded",
+        "v": [null]
+      },
+      {
+        "k": "filter-mode",
+        "v": [null]
+      },
+      {
+        "k": "fixed-header",
+        "v": [true, false]
+      },
+      {
+        "k": "footer-props",
+        "v": [null]
+      },
+      {
+        "k": "group-by",
+        "v": [null]
+      },
+      {
+        "k": "group-desc",
+        "v": [null]
+      },
+      {
+        "k": "header-props",
+        "v": [null]
+      },
+      {
+        "k": "headers",
+        "v": [null]
+      },
+      {
+        "k": "headers-length",
+        "v": [null]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "hide-default-footer",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-default-header",
+        "v": [true, false]
+      },
+      {
+        "k": "item-class",
+        "v": [null]
+      },
+      {
+        "k": "item-key",
+        "v": [null]
+      },
+      {
+        "k": "item-style",
+        "v": [null]
+      },
+      {
+        "k": "items",
+        "v": [null]
+      },
+      {
+        "k": "items-per-page",
+        "v": [10]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "loader-height",
+        "v": [4]
+      },
+      {
+        "k": "loading",
+        "v": [null]
+      },
+      {
+        "k": "loading-text",
+        "v": [null]
+      },
+      {
+        "k": "locale",
+        "v": [null]
+      },
+      {
+        "k": "mobile-breakpoint",
+        "v": [600]
+      },
+      {
+        "k": "multi-sort",
+        "v": [true, false]
+      },
+      {
+        "k": "must-sort",
+        "v": [true, false]
+      },
+      {
+        "k": "no-data-text",
+        "v": [null]
+      },
+      {
+        "k": "no-results-text",
+        "v": [null]
+      },
+      {
+        "k": "options",
+        "v": [null]
+      },
+      {
+        "k": "page",
+        "v": [1]
+      },
+      {
+        "k": "search",
+        "v": [null]
+      },
+      {
+        "k": "selectable-key",
+        "v": [null]
+      },
+      {
+        "k": "server-items-length",
+        "v": [-1]
+      },
+      {
+        "k": "show-expand",
+        "v": [true, false]
+      },
+      {
+        "k": "show-group-by",
+        "v": [true, false]
+      },
+      {
+        "k": "show-select",
+        "v": [true, false]
+      },
+      {
+        "k": "single-expand",
+        "v": [true, false]
+      },
+      {
+        "k": "single-select",
+        "v": [true, false]
+      },
+      {
+        "k": "sort-by",
+        "v": [null]
+      },
+      {
+        "k": "sort-desc",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

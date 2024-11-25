@@ -1,0 +1,89 @@
+{
+    "t": "v-img",
+    "a": [
+      {
+        "k": "alt",
+        "v": [null]
+      },
+      {
+        "k": "aspect-ratio",
+        "v": [null]
+      },
+      {
+        "k": "contain",
+        "v": [true, false]
+      },
+      {
+        "k": "content-class",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "gradient",
+        "v": [null]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "lazy-src",
+        "v": [null]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "max-height",
+        "v": [null]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "min-height",
+        "v": [null]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "options",
+        "v": [{}]
+      },
+      {
+        "k": "position",
+        "v": [null]
+      },
+      {
+        "k": "sizes",
+        "v": [null]
+      },
+      {
+        "k": "src",
+        "v": [null]
+      },
+      {
+        "k": "srcset",
+        "v": [null]
+      },
+      {
+        "k": "transition",
+        "v": [null]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      }
+    ]
+  }

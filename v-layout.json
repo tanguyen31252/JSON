@@ -1,0 +1,93 @@
+{
+    "t": "v-layout",
+    "a": [
+      {
+        "k": "align-baseline",
+        "v": [true, false]
+      },
+      {
+        "k": "align-center",
+        "v": [true, false]
+      },
+      {
+        "k": "align-content-center",
+        "v": [true, false]
+      },
+      {
+        "k": "align-content-end",
+        "v": [true, false]
+      },
+      {
+        "k": "align-content-space-around",
+        "v": [true, false]
+      },
+      {
+        "k": "align-content-space-between",
+        "v": [true, false]
+      },
+      {
+        "k": "align-content-start",
+        "v": [true, false]
+      },
+      {
+        "k": "align-end",
+        "v": [true, false]
+      },
+      {
+        "k": "align-start",
+        "v": [true, false]
+      },
+      {
+        "k": "column",
+        "v": [true, false]
+      },
+      {
+        "k": "d-{type}",
+        "v": [true, false]
+      },
+      {
+        "k": "fill-height",
+        "v": [true, false]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "justify-center",
+        "v": [true, false]
+      },
+      {
+        "k": "justify-end",
+        "v": [true, false]
+      },
+      {
+        "k": "justify-space-around",
+        "v": [true, false]
+      },
+      {
+        "k": "justify-space-between",
+        "v": [true, false]
+      },
+      {
+        "k": "justify-start",
+        "v": [true, false]
+      },
+      {
+        "k": "reverse",
+        "v": [true, false]
+      },
+      {
+        "k": "row",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "wrap",
+        "v": [true, false]
+      }
+    ]
+  }

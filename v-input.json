@@ -1,0 +1,109 @@
+{
+    "t": "v-input",
+    "a": [
+      {
+        "k": "append-icon",
+        "v": [null]
+      },
+      {
+        "k": "background-color",
+        "v": [null]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "error",
+        "v": [true, false]
+      },
+      {
+        "k": "error-count",
+        "v": [1]
+      },
+      {
+        "k": "error-messages",
+        "v": [[]]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "hide-details",
+        "v": [null]
+      },
+      {
+        "k": "hide-spin-buttons",
+        "v": [true, false]
+      },
+      {
+        "k": "hint",
+        "v": [null]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "label",
+        "v": [null]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "loading",
+        "v": [true, false]
+      },
+      {
+        "k": "messages",
+        "v": [[]]
+      },
+      {
+        "k": "persistent-hint",
+        "v": [true, false]
+      },
+      {
+        "k": "prepend-icon",
+        "v": [null]
+      },
+      {
+        "k": "readonly",
+        "v": [true, false]
+      },
+      {
+        "k": "rules",
+        "v": [[]]
+      },
+      {
+        "k": "success",
+        "v": [true, false]
+      },
+      {
+        "k": "success-messages",
+        "v": [[]]
+      },
+      {
+        "k": "validate-on-blur",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

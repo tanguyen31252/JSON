@@ -1,0 +1,35 @@
+{
+    "t": "v-breadcrumbs",
+    "a": [
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "divider",
+        "v": ["string"]
+      },
+      {
+        "k": "items",
+        "v": [
+          {
+            "disabled": [true, false],
+            "exact": [true, false],
+            "href": "string",
+            "link": [true, false],
+            "text": ["string", "number"],
+            "to": ["string", "object"]
+          }
+        ]
+      },
+      {
+        "k": "large",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      }
+    ]
+  }
+  

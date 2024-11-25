@@ -1,0 +1,33 @@
+{
+    "t": "v-progress-circular",
+    "a": [
+        {
+            "k": "button",
+            "v": [true, false]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "indeterminate",
+            "v": [true, false]
+        },
+        {
+            "k": "rotate",
+            "v": [0]
+        },
+        {
+            "k": "size",
+            "v": [32]
+        },
+        {
+            "k": "value",
+            "v": [0]
+        },
+        {
+            "k": "width",
+            "v": [4]
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "t": "v-pagination",
+    "a": [
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "current-page-aria-label",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "length",
+        "v": [0]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "navigation-color",
+        "v": [null]
+      },
+      {
+        "k": "navigation-text-color",
+        "v": [null]
+      },
+      {
+        "k": "next-aria-label",
+        "v": [null]
+      },
+      {
+        "k": "next-icon",
+        "v": [null]
+      },
+      {
+        "k": "page-aria-label",
+        "v": [null]
+      },
+      {
+        "k": "prev-icon",
+        "v": [null]
+      },
+      {
+        "k": "previous-aria-label",
+        "v": [null]
+      },
+      {
+        "k": "total-visible",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [0]
+      },
+      {
+        "k": "wrapper-aria-label",
+        "v": [null]
+      }
+    ]
+  }

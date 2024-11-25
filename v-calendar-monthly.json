@@ -1,0 +1,77 @@
+{
+    "t": "v-calendar-monthly",
+    "a": [
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "day-format",
+        "v": [null]
+      },
+      {
+        "k": "end",
+        "v": [null]
+      },
+      {
+        "k": "hide-header",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "locale",
+        "v": [null]
+      },
+      {
+        "k": "locale-first-day-of-year",
+        "v": [0]
+      },
+      {
+        "k": "min-weeks",
+        "v": [1]
+      },
+      {
+        "k": "month-format",
+        "v": [null]
+      },
+      {
+        "k": "now",
+        "v": [null]
+      },
+      {
+        "k": "short-months",
+        "v": [true, false]
+      },
+      {
+        "k": "short-weekdays",
+        "v": [true, false]
+      },
+      {
+        "k": "show-month-on-first",
+        "v": [true, false]
+      },
+      {
+        "k": "show-week",
+        "v": [true, false]
+      },
+      {
+        "k": "start",
+        "v": [null]
+      },
+      {
+        "k": "weekday-format",
+        "v": [null]
+      },
+      {
+        "k": "weekdays",
+        "v": [0, 1, 2, 3, 4, 5, 6]
+      }
+    ]
+  }

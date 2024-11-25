@@ -1,0 +1,181 @@
+{
+    "t": "v-menu",
+    "a": [
+      {
+        "k": "absolute",
+        "v": [true, false]
+      },
+      {
+        "k": "activator",
+        "v": [null]
+      },
+      {
+        "k": "allow-overflow",
+        "v": [true, false]
+      },
+      {
+        "k": "attach",
+        "v": [true, false]
+      },
+      {
+        "k": "auto",
+        "v": [true, false]
+      },
+      {
+        "k": "bottom",
+        "v": [true, false]
+      },
+      {
+        "k": "close-delay",
+        "v": [0]
+      },
+      {
+        "k": "close-on-click",
+        "v": [true, false]
+      },
+      {
+        "k": "close-on-content-click",
+        "v": [true, false]
+      },
+      {
+        "k": "content-class",
+        "v": [null]
+      },
+      {
+        "k": "content-props",
+        "v": [{}]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-keys",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "internal-activator",
+        "v": [true, false]
+      },
+      {
+        "k": "left",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "max-height",
+        "v": ["auto"]
+      },
+      {
+        "k": "max-width",
+        "v": ["auto"]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "nudge-bottom",
+        "v": [0]
+      },
+      {
+        "k": "nudge-left",
+        "v": [0]
+      },
+      {
+        "k": "nudge-right",
+        "v": [0]
+      },
+      {
+        "k": "nudge-top",
+        "v": [0]
+      },
+      {
+        "k": "nudge-width",
+        "v": [0]
+      },
+      {
+        "k": "offset-overflow",
+        "v": [true, false]
+      },
+      {
+        "k": "offset-x",
+        "v": [true, false]
+      },
+      {
+        "k": "offset-y",
+        "v": [true, false]
+      },
+      {
+        "k": "open-delay",
+        "v": [0]
+      },
+      {
+        "k": "open-on-click",
+        "v": [true, false]
+      },
+      {
+        "k": "open-on-focus",
+        "v": [true, false]
+      },
+      {
+        "k": "open-on-hover",
+        "v": [true, false]
+      },
+      {
+        "k": "origin",
+        "v": [null]
+      },
+      {
+        "k": "position-x",
+        "v": [null]
+      },
+      {
+        "k": "position-y",
+        "v": [null]
+      },
+      {
+        "k": "return-value",
+        "v": [null]
+      },
+      {
+        "k": "right",
+        "v": [true, false]
+      },
+      {
+        "k": "rounded",
+        "v": [null]
+      },
+      {
+        "k": "tile",
+        "v": [true, false]
+      },
+      {
+        "k": "top",
+        "v": [true, false]
+      },
+      {
+        "k": "transition",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "z-index",
+        "v": [null]
+      }
+    ]
+  }

@@ -1,0 +1,37 @@
+{
+    "t": "v-otp-input",
+    "a": [
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "length",
+        "v": [6]
+      },
+      {
+        "k": "plain",
+        "v": [true, false]
+      },
+      {
+        "k": "readonly",
+        "v": [true, false]
+      },
+      {
+        "k": "type",
+        "v": ["text","password","number"]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

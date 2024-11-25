@@ -1,0 +1,57 @@
+{
+    "t": "v-icon",
+    "a": [
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "large",
+        "v": [true, false]
+      },
+      {
+        "k": "left",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "right",
+        "v": [true, false]
+      },
+      {
+        "k": "size",
+        "v": [null]
+      },
+      {
+        "k": "small",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "x-large",
+        "v": [true, false]
+      },
+      {
+        "k": "x-small",
+        "v": [true, false]
+      }
+    ]
+  }

@@ -1,0 +1,97 @@
+{
+    "t": "v-rating",
+    "a": [
+        {
+            "k": "background-color",
+            "v": ["accent"]
+        },
+        {
+            "k": "clearable",
+            "v": [true, false]
+        },
+        {
+            "k": "close-delay",
+            "v": [0]
+        },
+        {
+            "k": "color",
+            "v": ["primary"]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "empty-icon",
+            "v": ["$ratingEmpty"]
+        },
+        {
+            "k": "full-icon",
+            "v": ["$ratingFull"]
+        },
+        {
+            "k": "half-icon",
+            "v": ["$ratingHalf"]
+        },
+        {
+            "k": "half-increments",
+            "v": [true, false]
+        },
+        {
+            "k": "hover",
+            "v": [true, false]
+        },
+        {
+            "k": "icon-label",
+            "v": ["$vuetify.rating.ariaLabel.icon"]
+        },
+        {
+            "k": "large",
+            "v": [true, false]
+        },
+        {
+            "k": "length",
+            "v": [5]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "open-delay",
+            "v": [0]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "ripple",
+            "v": [true, false]
+        },
+        {
+            "k": "size",
+            "v": [null]
+        },
+        {
+            "k": "small",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [0]
+        },
+        {
+            "k": "x-large",
+            "v": [true, false]
+        },
+        {
+            "k": "x-small",
+            "v": [true, false]
+        }
+    ]
+}

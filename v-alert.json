@@ -1,0 +1,147 @@
+{
+  "t": "v-alert",
+  "a": [
+    {
+      "k": "border",
+      "v": ["top", "right", "bottom", "left"]
+    },
+    {
+      "k": "close-icon",
+      "v": ["$cancel"]
+    },
+    {
+      "k": "close-label",
+      "v": ["$vuetify.close"]
+    },
+    {
+      "k": "color",
+      "v": [null]
+    },
+    {
+      "k": "colored-border",
+      "v": [true, false]
+    },
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "dense",
+      "v": [true, false]
+    },
+    {
+      "k": "dismissible",
+      "v": [true, false]
+    },
+    {
+      "k": "elevation",
+      "v": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "23",
+        "24"
+      ]
+    },
+    {
+      "k": "height",
+      "v": [null]
+    },
+    {
+      "k": "icon",
+      "v": [null]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    },
+    {
+      "k": "max-height",
+      "v": [null]
+    },
+    {
+      "k": "max-width",
+      "v": [null]
+    },
+    {
+      "k": "min-height",
+      "v": [null]
+    },
+    {
+      "k": "min-width",
+      "v": [null]
+    },
+    {
+      "k": "mode",
+      "v": [null]
+    },
+    {
+      "k": "origin",
+      "v": [null]
+    },
+    {
+      "k": "outlined",
+      "v": [true, false]
+    },
+    {
+      "k": "prominent",
+      "v": [true, false]
+    },
+    {
+      "k": "rounded",
+      "v": [null]
+    },
+    {
+      "k": "shaped",
+      "v": [true, false]
+    },
+    {
+      "k": "tag",
+      "v": ["div", "h1", "h2", "p", "span"]
+    },
+    {
+      "k": "text",
+      "v": [true, false]
+    },
+    {
+      "k": "tile",
+      "v": [true, false]
+    },
+    {
+      "k": "transition",
+      "v": [null]
+    },
+    {
+      "k": "type",
+      "v": ["success", "info", "warning", "error"]
+    },
+    {
+      "k": "value",
+      "v": [true, false]
+    },
+    {
+      "k": "width",
+      "v": [null]
+    }
+  ]
+}

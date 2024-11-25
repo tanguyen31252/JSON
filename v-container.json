@@ -1,0 +1,17 @@
+{
+    "t": "v-container",
+    "a": [
+      {
+        "k": "fluid",
+        "v": [true, false]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      }
+    ]
+  }

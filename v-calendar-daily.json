@@ -1,0 +1,97 @@
+{
+    "t": "v-calendar-daily",
+    "a": [
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "day-format",
+        "v": [null]
+      },
+      {
+        "k": "end",
+        "v": [null]
+      },
+      {
+        "k": "first-interval",
+        "v": [0]
+      },
+      {
+        "k": "first-time",
+        "v": [null]
+      },
+      {
+        "k": "hide-header",
+        "v": [true, false]
+      },
+      {
+        "k": "interval-count",
+        "v": [24]
+      },
+      {
+        "k": "interval-format",
+        "v": [null]
+      },
+      {
+        "k": "interval-height",
+        "v": [48]
+      },
+      {
+        "k": "interval-minutes",
+        "v": [60]
+      },
+      {
+        "k": "interval-style",
+        "v": [null]
+      },
+      {
+        "k": "interval-width",
+        "v": [60]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "locale",
+        "v": [null]
+      },
+      {
+        "k": "max-days",
+        "v": [7]
+      },
+      {
+        "k": "now",
+        "v": [null]
+      },
+      {
+        "k": "short-intervals",
+        "v": [true, false]
+      },
+      {
+        "k": "short-weekdays",
+        "v": [true, false]
+      },
+      {
+        "k": "show-interval-label",
+        "v": [null]
+      },
+      {
+        "k": "start",
+        "v": [null]
+      },
+      {
+        "k": "weekday-format",
+        "v": [null]
+      },
+      {
+        "k": "weekdays",
+        "v": [0, 1, 2, 3, 4, 5, 6]
+      }
+    ]
+  }

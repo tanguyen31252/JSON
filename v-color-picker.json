@@ -1,0 +1,73 @@
+{
+    "t": "v-color-picker",
+    "a": [
+      {
+        "k": "canvas-height",
+        "v": [150]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "dot-size",
+        "v": [10]
+      },
+      {
+        "k": "elevation",
+        "v": [null]
+      },
+      {
+        "k": "flat",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-canvas",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-inputs",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-mode-switch",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-sliders",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mode",
+        "v": [null]
+      },
+      {
+        "k": "show-swatches",
+        "v": [true, false]
+      },
+      {
+        "k": "swatches",
+        "v": [null]
+      },
+      {
+        "k": "swatches-max-height",
+        "v": [150]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "width",
+        "v": [300]
+      }
+    ]
+  }

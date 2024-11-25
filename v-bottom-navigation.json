@@ -1,0 +1,102 @@
+{
+    "t": "v-bottom-navigation",
+    "a": [
+      {
+        "k": "absolute",
+        "v": [true, false]
+      },
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "app",
+        "v": [true, false]
+      },
+      {
+        "k": "background-color",
+        "v": [null]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "fixed",
+        "v": [true, false]
+      },
+      {
+        "k": "grow",
+        "v": [true, false]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "hide-on-scroll",
+        "v": [true, false]
+      },
+      {
+        "k": "horizontal",
+        "v": [true, false]
+      },
+      {
+        "k": "input-value",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mandatory",
+        "v": [true, false]
+      },
+      {
+        "k": "max-height",
+        "v": [null]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "min-height",
+        "v": [null]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "scroll-target",
+        "v": [null]
+      },
+      {
+        "k": "scroll-threshold",
+        "v": [null]
+      },
+      {
+        "k": "shift",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": ["any"]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      }
+    ]
+  }
+  

@@ -1,0 +1,94 @@
+{
+    "t": "v-banner",
+    "a": [
+      {
+        "k": "app",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "elevation",
+        "v": [null]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "icon",
+        "v": [null]
+      },
+      {
+        "k": "icon-color",
+        "v": [null]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "max-height",
+        "v": [null]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "min-height",
+        "v": [null]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "mobile-breakpoint",
+        "v": [null]
+      },
+      {
+        "k": "outlined",
+        "v": [true, false]
+      },
+      {
+        "k": "rounded",
+        "v": [true, false, null]
+      },
+      {
+        "k": "shaped",
+        "v": [true, false]
+      },
+      {
+        "k": "single-line",
+        "v": [true, false]
+      },
+      {
+        "k": "sticky",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "tile",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [true, false]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      }
+    ]
+  }
+  

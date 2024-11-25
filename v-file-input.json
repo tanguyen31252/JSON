@@ -1,0 +1,221 @@
+{
+    "t": "v-file-input",
+    "a": [
+      {
+        "k": "append-icon",
+        "v": [null]
+      },
+      {
+        "k": "append-outer-icon",
+        "v": [null]
+      },
+      {
+        "k": "autofocus",
+        "v": [true, false]
+      },
+      {
+        "k": "background-color",
+        "v": [null]
+      },
+      {
+        "k": "chips",
+        "v": [true, false]
+      },
+      {
+        "k": "clear-icon",
+        "v": [null]
+      },
+      {
+        "k": "clearable",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "counter",
+        "v": [null]
+      },
+      {
+        "k": "counter-size-string",
+        "v": [null]
+      },
+      {
+        "k": "counter-string",
+        "v": [null]
+      },
+      {
+        "k": "counter-value",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "error",
+        "v": [true, false]
+      },
+      {
+        "k": "error-count",
+        "v": [1]
+      },
+      {
+        "k": "error-messages",
+        "v": [[]]
+      },
+      {
+        "k": "filled",
+        "v": [true, false]
+      },
+      {
+        "k": "flat",
+        "v": [true, false]
+      },
+      {
+        "k": "full-width",
+        "v": [true, false]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "hide-details",
+        "v": [null]
+      },
+      {
+        "k": "hide-input",
+        "v": [true, false]
+      },
+      {
+        "k": "hint",
+        "v": [null]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "label",
+        "v": [null]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "loader-height",
+        "v": [2]
+      },
+      {
+        "k": "loading",
+        "v": [true, false]
+      },
+      {
+        "k": "messages",
+        "v": [[]]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "outlined",
+        "v": [true, false]
+      },
+      {
+        "k": "persistent-hint",
+        "v": [true, false]
+      },
+      {
+        "k": "persistent-placeholder",
+        "v": [true, false]
+      },
+      {
+        "k": "placeholder",
+        "v": [null]
+      },
+      {
+        "k": "prefix",
+        "v": [null]
+      },
+      {
+        "k": "prepend-icon",
+        "v": [null]
+      },
+      {
+        "k": "prepend-inner-icon",
+        "v": [null]
+      },
+      {
+        "k": "reverse",
+        "v": [true, false]
+      },
+      {
+        "k": "rounded",
+        "v": [true, false]
+      },
+      {
+        "k": "rules",
+        "v": [[]]
+      },
+      {
+        "k": "shaped",
+        "v": [true, false]
+      },
+      {
+        "k": "show-size",
+        "v": [true, false]
+      },
+      {
+        "k": "single-line",
+        "v": [true, false]
+      },
+      {
+        "k": "small-chips",
+        "v": [true, false]
+      },
+      {
+        "k": "solo",
+        "v": [true, false]
+      },
+      {
+        "k": "solo-inverted",
+        "v": [true, false]
+      },
+      {
+        "k": "success",
+        "v": [true, false]
+      },
+      {
+        "k": "success-messages",
+        "v": [[]]
+      },
+      {
+        "k": "suffix",
+        "v": [null]
+      },
+      {
+        "k": "truncate-length",
+        "v": [22]
+      },
+      {
+        "k": "validate-on-blur",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

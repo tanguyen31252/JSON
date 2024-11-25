@@ -1,0 +1,74 @@
+{
+    "t": "v-btn-group",
+    "a": [
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "background-color",
+        "v": [null]
+      },
+      {
+        "k": "borderless",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "group",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mandatory",
+        "v": [true, false]
+      },
+      {
+        "k": "max",
+        "v": [null]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "rounded",
+        "v": [true, false]
+      },
+      {
+        "k": "shaped",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "tile",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": ["any"]
+      },
+      {
+        "k": "value-comparator",
+        "v": ["function"]
+      }
+    ]
+  }
+  

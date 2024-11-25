@@ -1,0 +1,73 @@
+{
+  "t": "v-col",
+  "a": [
+    {
+      "k": "align-self",
+      "v": ["start", "center", "end", "auto", "baseline", "stretch"]
+    },
+    {
+      "k": "cols",
+      "v": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, "auto"]
+    },
+    {
+      "k": "lg",
+      "v": [null]
+    },
+    {
+      "k": "md",
+      "v": [null]
+    },
+    {
+      "k": "offset",
+      "v": [null]
+    },
+    {
+      "k": "offset-lg",
+      "v": [null]
+    },
+    {
+      "k": "offset-md",
+      "v": [null]
+    },
+    {
+      "k": "offset-sm",
+      "v": [null]
+    },
+    {
+      "k": "offset-xl",
+      "v": [null]
+    },
+    {
+      "k": "order",
+      "v": [null]
+    },
+    {
+      "k": "order-lg",
+      "v": [null]
+    },
+    {
+      "k": "order-md",
+      "v": [null]
+    },
+    {
+      "k": "order-sm",
+      "v": [null]
+    },
+    {
+      "k": "order-xl",
+      "v": [null]
+    },
+    {
+      "k": "sm",
+      "v": [null]
+    },
+    {
+      "k": "tag",
+      "v": [null]
+    },
+    {
+      "k": "xl",
+      "v": [null]
+    }
+  ]
+}

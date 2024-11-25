@@ -1,0 +1,49 @@
+{
+    "t": "v-list-group",
+    "a": [
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "append-icon",
+        "v": [null]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "group",
+        "v": [null]
+      },
+      {
+        "k": "no-action",
+        "v": [true, false]
+      },
+      {
+        "k": "prepend-icon",
+        "v": [null]
+      },
+      {
+        "k": "ripple",
+        "v": [true, false]
+      },
+      {
+        "k": "sub-group",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

@@ -1,0 +1,141 @@
+{
+    "t": "v-chip",
+    "a": [
+      {
+        "k": "active",
+        "v": [true, false]
+      },
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "append",
+        "v": [true, false]
+      },
+      {
+        "k": "close",
+        "v": [true, false]
+      },
+      {
+        "k": "close-icon",
+        "v": [null]
+      },
+      {
+        "k": "close-label",
+        "v": [null]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "draggable",
+        "v": [true, false]
+      },
+      {
+        "k": "exact",
+        "v": [true, false]
+      },
+      {
+        "k": "exact-active-class",
+        "v": [null]
+      },
+      {
+        "k": "exact-path",
+        "v": [true, false]
+      },
+      {
+        "k": "filter",
+        "v": [true, false]
+      },
+      {
+        "k": "filter-icon",
+        "v": [null]
+      },
+      {
+        "k": "href",
+        "v": [null]
+      },
+      {
+        "k": "input-value",
+        "v": [null]
+      },
+      {
+        "k": "label",
+        "v": [true, false]
+      },
+      {
+        "k": "large",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "link",
+        "v": [true, false]
+      },
+      {
+        "k": "nuxt",
+        "v": [true, false]
+      },
+      {
+        "k": "outlined",
+        "v": [true, false]
+      },
+      {
+        "k": "pill",
+        "v": [true, false]
+      },
+      {
+        "k": "replace",
+        "v": [true, false]
+      },
+      {
+        "k": "ripple",
+        "v": [null]
+      },
+      {
+        "k": "small",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "target",
+        "v": [null]
+      },
+      {
+        "k": "text-color",
+        "v": [null]
+      },
+      {
+        "k": "to",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "x-large",
+        "v": [true, false]
+      },
+      {
+        "k": "x-small",
+        "v": [true, false]
+      }
+    ]
+  }

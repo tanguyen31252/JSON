@@ -1,0 +1,97 @@
+{
+    "t": "v-list",
+    "a": [
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "elevation",
+        "v": [null]
+      },
+      {
+        "k": "expand",
+        "v": [true, false]
+      },
+      {
+        "k": "flat",
+        "v": [true, false]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "max-height",
+        "v": [null]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "min-height",
+        "v": [null]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "nav",
+        "v": [true, false]
+      },
+      {
+        "k": "outlined",
+        "v": [true, false]
+      },
+      {
+        "k": "rounded",
+        "v": [true, false]
+      },
+      {
+        "k": "shaped",
+        "v": [true, false]
+      },
+      {
+        "k": "subheader",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "three-line",
+        "v": [true, false]
+      },
+      {
+        "k": "tile",
+        "v": [true, false]
+      },
+      {
+        "k": "two-line",
+        "v": [true, false]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      }
+    ]
+  }

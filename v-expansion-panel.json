@@ -1,0 +1,77 @@
+{
+    "t": "v-expansion-panel",
+    "a": [
+      {
+        "k": "accordion",
+        "v": [true, false]
+      },
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "flat",
+        "v": [true, false]
+      },
+      {
+        "k": "focusable",
+        "v": [true, false]
+      },
+      {
+        "k": "hover",
+        "v": [true, false]
+      },
+      {
+        "k": "inset",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mandatory",
+        "v": [true, false]
+      },
+      {
+        "k": "max",
+        "v": [null]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "popout",
+        "v": [true, false]
+      },
+      {
+        "k": "readonly",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "tile",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "value-comparator",
+        "v": [null]
+      }
+    ]
+  } 

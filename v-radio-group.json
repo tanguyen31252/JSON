@@ -1,0 +1,129 @@
+{
+    "t": "v-radio-group",
+    "a": [
+        {
+            "k": "active-class",
+            "v": ["v-item--active"]
+        },
+        {
+            "k": "append-icon",
+            "v": [null]
+        },
+        {
+            "k": "background-color",
+            "v": [null]
+        },
+        {
+            "k": "column",
+            "v": [true, false]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "error",
+            "v": [true, false]
+        },
+        {
+            "k": "error-count",
+            "v": [1]
+        },
+        {
+            "k": "error-messages",
+            "v": [null]
+        },
+        {
+            "k": "hide-details",
+            "v": [null]
+        },
+        {
+            "k": "hint",
+            "v": [null]
+        },
+        {
+            "k": "id",
+            "v": [null]
+        },
+        {
+            "k": "label",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "mandatory",
+            "v": [true, false]
+        },
+        {
+            "k": "max",
+            "v": [null]
+        },
+        {
+            "k": "messages",
+            "v": [null]
+        },
+        {
+            "k": "multiple",
+            "v": [true, false]
+        },
+        {
+            "k": "name",
+            "v": [null]
+        },
+        {
+            "k": "persistent-hint",
+            "v": [true, false]
+        },
+        {
+            "k": "prepend-icon",
+            "v": [null]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "row",
+            "v": [true, false]
+        },
+        {
+            "k": "rules",
+            "v": [null]
+        },
+        {
+            "k": "success",
+            "v": [true, false]
+        },
+        {
+            "k": "success-messages",
+            "v": [null]
+        },
+        {
+            "k": "tag",
+            "v": ["div"]
+        },
+        {
+            "k": "validate-on-blur",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        },
+        {
+            "k": "value-comparator",
+            "v": [null]
+        }
+    ]
+}

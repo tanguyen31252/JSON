@@ -1,0 +1,57 @@
+{
+    "t": "v-radio",
+    "a": [
+        {
+            "k": "active-class",
+            "v": [null]
+        },
+        {
+            "k": "color",
+            "v": [null]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "disabled",
+            "v": [true, false]
+        },
+        {
+            "k": "id",
+            "v": [null]
+        },
+        {
+            "k": "label",
+            "v": [null]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "name",
+            "v": [null]
+        },
+        {
+            "k": "off-icon",
+            "v": ["$radioOff"]
+        },
+        {
+            "k": "on-icon",
+            "v": ["$radioOn"]
+        },
+        {
+            "k": "readonly",
+            "v": [true, false]
+        },
+        {
+            "k": "ripple",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [null]
+        }
+    ]
+}

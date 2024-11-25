@@ -1,0 +1,33 @@
+{
+    "t": "v-overlay",
+    "a": [
+      {
+        "k": "absolute",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "opacity",
+        "v": [0.46]
+      },
+      {
+        "k": "value",
+        "v": [true, false]
+      },
+      {
+        "k": "z-index",
+        "v": [5]
+      }
+    ]
+  }

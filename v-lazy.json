@@ -1,0 +1,45 @@
+{
+    "t": "v-lazy",
+    "a": [
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "max-height",
+        "v": [null]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "min-height",
+        "v": [null]
+      },
+      {
+        "k": "min-width",
+        "v": [null]
+      },
+      {
+        "k": "options",
+        "v": [{}]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "transition",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      }
+    ]
+  }

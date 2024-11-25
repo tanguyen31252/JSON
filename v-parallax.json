@@ -1,0 +1,21 @@
+{
+    "t": "v-parallax",
+    "a": [
+        {
+            "k": "alt",
+            "v": [null]
+        },
+        {
+            "k": "height",
+            "v": [500]
+        },
+        {
+            "k": "src",
+            "v": [null]
+        },
+        {
+            "k": "srcset",
+            "v": [null]
+        }
+    ]
+}

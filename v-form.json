@@ -1,0 +1,21 @@
+{
+    "t": "v-form",
+    "a": [
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "lazy-validation",
+        "v": [true, false]
+      },
+      {
+        "k": "readonly",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [true, false]
+      }
+    ]
+  }

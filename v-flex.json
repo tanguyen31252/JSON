@@ -1,0 +1,49 @@
+{
+    "t": "v-flex",
+    "a": [
+      {
+        "k": "(size)(1-12)",
+        "v": [true, false]
+      },
+      {
+        "k": "align-self-baseline",
+        "v": [true, false]
+      },
+      {
+        "k": "align-self-center",
+        "v": [true, false]
+      },
+      {
+        "k": "align-self-end",
+        "v": [true, false]
+      },
+      {
+        "k": "align-self-start",
+        "v": [true, false]
+      },
+      {
+        "k": "grow",
+        "v": [true, false]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "offset-(size)(0-12)",
+        "v": [true, false]
+      },
+      {
+        "k": "order-(size)(1-12)",
+        "v": [true, false]
+      },
+      {
+        "k": "shrink",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      }
+    ]
+  }

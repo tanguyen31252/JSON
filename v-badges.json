@@ -1,0 +1,81 @@
+{
+  "t": "v-badge",
+  "a": [
+    {
+      "k": "avatar",
+      "v": [true, false]
+    },
+    {
+      "k": "bordered",
+      "v": [true, false]
+    },
+    {
+      "k": "bottom",
+      "v": [true, false]
+    },
+    {
+      "k": "color",
+      "v": [null]
+    },
+    {
+      "k": "content",
+      "v": ["any"]
+    },
+    {
+      "k": "dark",
+      "v": [true, false]
+    },
+    {
+      "k": "dot",
+      "v": [true, false]
+    },
+    {
+      "k": "icon",
+      "v": [null]
+    },
+    {
+      "k": "inline",
+      "v": [true, false]
+    },
+    {
+      "k": "label",
+      "v": [null]
+    },
+    {
+      "k": "left",
+      "v": [true, false]
+    },
+    {
+      "k": "light",
+      "v": [true, false]
+    },
+    {
+      "k": "mode",
+      "v": [null]
+    },
+    {
+      "k": "offset-x",
+      "v": [null]
+    },
+    {
+      "k": "offset-y",
+      "v": [null]
+    },
+    {
+      "k": "origin",
+      "v": [null]
+    },
+    {
+      "k": "overlap",
+      "v": [true,false]
+    },
+    {
+      "k": "title",
+      "v": [true,false]
+    },
+    {
+      "k": "transition",
+      "v": [null]
+    }
+  ]
+}

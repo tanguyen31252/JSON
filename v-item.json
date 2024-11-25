@@ -1,0 +1,41 @@
+{
+    "t": "v-item",
+    "a": [
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mandatory",
+        "v": [true, false]
+      },
+      {
+        "k": "max",
+        "v": [null]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "value-comparator",
+        "v": [null]
+      }
+    ]
+  }

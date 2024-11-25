@@ -1,0 +1,41 @@
+{
+    "t": "v-edit-dialog",
+    "a": [
+      {
+        "k": "cancel-text",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "large",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "persistent",
+        "v": [true, false]
+      },
+      {
+        "k": "return-value",
+        "v": [null]
+      },
+      {
+        "k": "save-text",
+        "v": [null]
+      },
+      {
+        "k": "transition",
+        "v": [null]
+      }
+    ]
+  }

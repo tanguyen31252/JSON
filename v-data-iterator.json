@@ -1,0 +1,145 @@
+{
+    "t": "v-data-iterator",
+    "a": [
+      {
+        "k": "checkbox-color",
+        "v": [null]
+      },
+      {
+        "k": "custom-filter",
+        "v": [null]
+      },
+      {
+        "k": "custom-group",
+        "v": [null]
+      },
+      {
+        "k": "custom-sort",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-filtering",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-pagination",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-sort",
+        "v": [true, false]
+      },
+      {
+        "k": "expanded",
+        "v": [null]
+      },
+      {
+        "k": "footer-props",
+        "v": [null]
+      },
+      {
+        "k": "group-by",
+        "v": [null]
+      },
+      {
+        "k": "group-desc",
+        "v": [null]
+      },
+      {
+        "k": "hide-default-footer",
+        "v": [true, false]
+      },
+      {
+        "k": "item-key",
+        "v": [null]
+      },
+      {
+        "k": "items",
+        "v": [null]
+      },
+      {
+        "k": "items-per-page",
+        "v": [10]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "loading",
+        "v": [null]
+      },
+      {
+        "k": "loading-text",
+        "v": [null]
+      },
+      {
+        "k": "locale",
+        "v": [null]
+      },
+      {
+        "k": "mobile-breakpoint",
+        "v": [600]
+      },
+      {
+        "k": "multi-sort",
+        "v": [true, false]
+      },
+      {
+        "k": "must-sort",
+        "v": [true, false]
+      },
+      {
+        "k": "no-data-text",
+        "v": [null]
+      },
+      {
+        "k": "no-results-text",
+        "v": [null]
+      },
+      {
+        "k": "options",
+        "v": [null]
+      },
+      {
+        "k": "page",
+        "v": [1]
+      },
+      {
+        "k": "search",
+        "v": [null]
+      },
+      {
+        "k": "selectable-key",
+        "v": [null]
+      },
+      {
+        "k": "server-items-length",
+        "v": [-1]
+      },
+      {
+        "k": "single-expand",
+        "v": [true, false]
+      },
+      {
+        "k": "single-select",
+        "v": [true, false]
+      },
+      {
+        "k": "sort-by",
+        "v": [null]
+      },
+      {
+        "k": "sort-desc",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

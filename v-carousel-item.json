@@ -1,0 +1,77 @@
+{
+    "t": "v-carousel-item",
+    "a": [
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "append",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "exact",
+        "v": [true, false]
+      },
+      {
+        "k": "exact-active-class",
+        "v": [null]
+      },
+      {
+        "k": "exact-path",
+        "v": [true, false]
+      },
+      {
+        "k": "href",
+        "v": [null]
+      },
+      {
+        "k": "link",
+        "v": [true, false]
+      },
+      {
+        "k": "nuxt",
+        "v": [true, false]
+      },
+      {
+        "k": "replace",
+        "v": [true, false]
+      },
+      {
+        "k": "reverse-transition",
+        "v": [null]
+      },
+      {
+        "k": "ripple",
+        "v": [null]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "target",
+        "v": [null]
+      },
+      {
+        "k": "to",
+        "v": [null]
+      },
+      {
+        "k": "transition",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      }
+    ]
+  }

@@ -1,0 +1,113 @@
+{
+    "t": "v-carousel",
+    "a": [
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "continuous",
+        "v": [true, false]
+      },
+      {
+        "k": "cycle",
+        "v": [true, false]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "delimiter-icon",
+        "v": [null]
+      },
+      {
+        "k": "height",
+        "v": [500]
+      },
+      {
+        "k": "hide-delimiter-background",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-delimiters",
+        "v": [true, false]
+      },
+      {
+        "k": "interval",
+        "v": [6000]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mandatory",
+        "v": [true, false]
+      },
+      {
+        "k": "max",
+        "v": [null]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "next-icon",
+        "v": [null]
+      },
+      {
+        "k": "prev-icon",
+        "v": [null]
+      },
+      {
+        "k": "progress",
+        "v": [true, false]
+      },
+      {
+        "k": "progress-color",
+        "v": [null]
+      },
+      {
+        "k": "reverse",
+        "v": [true, false]
+      },
+      {
+        "k": "show-arrows",
+        "v": [true, false]
+      },
+      {
+        "k": "show-arrows-on-hover",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "touch",
+        "v": [null]
+      },
+      {
+        "k": "touchless",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "value-comparator",
+        "v": [null]
+      },
+      {
+        "k": "vertical",
+        "v": [true, false]
+      },
+      {
+        "k": "vertical-delimiters",
+        "v": [null]
+      }
+    ]
+  }

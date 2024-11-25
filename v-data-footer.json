@@ -1,0 +1,71 @@
+{
+    "t": "v-data-footer",
+    "a": [
+      {
+        "k": "disable-items-per-page",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-pagination",
+        "v": [true, false]
+      },
+      {
+        "k": "first-icon",
+        "v": [null]
+      },
+      {
+        "k": "items-per-page-all-text",
+        "v": [null]
+      },
+      {
+        "k": "items-per-page-options",
+        "v": [5, 10, 15, -1]
+      },
+      {
+        "k": "items-per-page-text",
+        "v": [null]
+      },
+      {
+        "k": "last-icon",
+        "v": [null]
+      },
+      {
+        "k": "next-icon",
+        "v": [null]
+      },
+      {
+        "k": "options",
+        "v": [	
+            {
+              "page": [null],
+              "itemsPerPage": [null],
+              "sortBy": [null],
+              "sortDesc": [true,false],
+              "groupBy": [null],
+              "groupDesc": [true,false],
+              "multiSort": [true,false],
+              "mustSort": [true,false]
+            }]
+      },
+      {
+        "k": "page-text",
+        "v": [null]
+      },
+      {
+        "k": "pagination",
+        "v": [null]
+      },
+      {
+        "k": "prev-icon",
+        "v": [null]
+      },
+      {
+        "k": "show-current-page",
+        "v": [true, false]
+      },
+      {
+        "k": "show-first-last-page",
+        "v": [true, false]
+      }
+    ]
+  }

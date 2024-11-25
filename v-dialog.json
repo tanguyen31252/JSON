@@ -1,0 +1,109 @@
+{
+    "t": "v-dialog",
+    "a": [
+      {
+        "k": "activator",
+        "v": [null]
+      },
+      {
+        "k": "attach",
+        "v": [true, false]
+      },
+      {
+        "k": "close-delay",
+        "v": [0]
+      },
+      {
+        "k": "content-class",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "fullscreen",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-overlay",
+        "v": [true, false]
+      },
+      {
+        "k": "internal-activator",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "max-width",
+        "v": [null]
+      },
+      {
+        "k": "no-click-animation",
+        "v": [true, false]
+      },
+      {
+        "k": "open-delay",
+        "v": [0]
+      },
+      {
+        "k": "open-on-click",
+        "v": [true]
+      },
+      {
+        "k": "open-on-focus",
+        "v": [true, false]
+      },
+      {
+        "k": "origin",
+        "v": [null]
+      },
+      {
+        "k": "overlay-color",
+        "v": [null]
+      },
+      {
+        "k": "overlay-opacity",
+        "v": [null]
+      },
+      {
+        "k": "persistent",
+        "v": [true, false]
+      },
+      {
+        "k": "retain-focus",
+        "v": [true]
+      },
+      {
+        "k": "return-value",
+        "v": [null]
+      },
+      {
+        "k": "scrollable",
+        "v": [true, false]
+      },
+      {
+        "k": "transition",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "width",
+        "v": [null]
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+{
+    "t": "v-hover",
+    "a": [
+      {
+        "k": "close-delay",
+        "v": [0]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "open-delay",
+        "v": [0]
+      },
+      {
+        "k": "value",
+        "v": [true, false]
+      }
+    ]
+  }

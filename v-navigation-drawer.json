@@ -1,0 +1,117 @@
+{
+    "t": "v-navigation-drawer",
+    "a": [
+      {
+        "k": "absolute",
+        "v": [true, false]
+      },
+      {
+        "k": "app",
+        "v": [true, false]
+      },
+      {
+        "k": "bottom",
+        "v": [true, false]
+      },
+      {
+        "k": "clipped",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-resize-watcher",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-route-watcher",
+        "v": [true, false]
+      },
+      {
+        "k": "expand-on-hover",
+        "v": [true, false]
+      },
+      {
+        "k": "fixed",
+        "v": [true, false]
+      },
+      {
+        "k": "floating",
+        "v": [true, false]
+      },
+      {
+        "k": "height",
+        "v": ["100%"]
+      },
+      {
+        "k": "hide-overlay",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mini-variant",
+        "v": [true, false]
+      },
+      {
+        "k": "mini-variant-width",
+        "v": [56]
+      },
+      {
+        "k": "mobile-breakpoint",
+        "v": [null]
+      },
+      {
+        "k": "overlay-color",
+        "v": [null]
+      },
+      {
+        "k": "overlay-opacity",
+        "v": [null]
+      },
+      {
+        "k": "permanent",
+        "v": [true, false]
+      },
+      {
+        "k": "right",
+        "v": [true, false]
+      },
+      {
+        "k": "src",
+        "v": [null]
+      },
+      {
+        "k": "stateless",
+        "v": [true, false]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "temporary",
+        "v": [true, false]
+      },
+      {
+        "k": "touchless",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "width",
+        "v": [256]
+      }
+    ]
+  }

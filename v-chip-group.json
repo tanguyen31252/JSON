@@ -1,0 +1,69 @@
+{
+    "t": "v-chip-group",
+    "a": [
+      {
+        "k": "active-class",
+        "v": [null]
+      },
+      {
+        "k": "center-active",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "column",
+        "v": [true, false]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "mandatory",
+        "v": [true, false]
+      },
+      {
+        "k": "max",
+        "v": [null]
+      },
+      {
+        "k": "mobile-breakpoint",
+        "v": [null]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "next-icon",
+        "v": [null]
+      },
+      {
+        "k": "prev-icon",
+        "v": [null]
+      },
+      {
+        "k": "show-arrows",
+        "v": [null]
+      },
+      {
+        "k": "tag",
+        "v": [null]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "value-comparator",
+        "v": [null]
+      }
+    ]
+  }

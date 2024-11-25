@@ -1,0 +1,81 @@
+{
+    "t": "v-progress-linear",
+    "a": [
+        {
+            "k": "absolute",
+            "v": [true, false]
+        },
+        {
+            "k": "active",
+            "v": [true]
+        },
+        {
+            "k": "background-color",
+            "v": [null]
+        },
+        {
+            "k": "background-opacity",
+            "v": [null]
+        },
+        {
+            "k": "bottom",
+            "v": [true, false]
+        },
+        {
+            "k": "buffer-value",
+            "v": [100]
+        },
+        {
+            "k": "color",
+            "v": ["primary"]
+        },
+        {
+            "k": "dark",
+            "v": [true, false]
+        },
+        {
+            "k": "fixed",
+            "v": [true, false]
+        },
+        {
+            "k": "height",
+            "v": [4]
+        },
+        {
+            "k": "indeterminate",
+            "v": [true, false]
+        },
+        {
+            "k": "light",
+            "v": [true, false]
+        },
+        {
+            "k": "query",
+            "v": [true, false]
+        },
+        {
+            "k": "reverse",
+            "v": [true, false]
+        },
+        {
+            "k": "rounded",
+            "v": [true, false]
+        },
+        {
+            "k": "stream",
+            "v": [true, false]
+        },
+        {
+            "k": "striped",
+            "v": [true, false]
+        },
+        {
+            "k": "top",
+            "v": [true, false]
+        },
+        {
+            "k": "value",
+            "v": [0]
+        }
+    ]
+}

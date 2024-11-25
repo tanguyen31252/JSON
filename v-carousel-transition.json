@@ -1,0 +1,25 @@
+{
+    "t": "v-carousel-transition",
+    "a": [
+      {
+        "k": "group",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-on-leave",
+        "v": [true, false]
+      },
+      {
+        "k": "leave-absolute",
+        "v": [true, false]
+      },
+      {
+        "k": "mode",
+        "v": [null]
+      },
+      {
+        "k": "origin",
+        "v": [null]
+      }
+    ]
+  }

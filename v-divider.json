@@ -1,0 +1,21 @@
+{
+    "t": "v-divider",
+    "a": [
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "inset",
+        "v": [true, false]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "vertical",
+        "v": [true, false]
+      }
+    ]
+  }

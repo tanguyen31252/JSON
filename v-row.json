@@ -1,0 +1,77 @@
+{
+    "t": "v-row",
+    "a": [
+        {
+            "k": "align",
+            "v": ["start", "center", "end", "baseline", "stretch"]
+        },
+        {
+            "k": "align-content",
+            "v": ["start", "center", "end", "baseline", "stretch"]
+        },
+        {
+            "k": "align-content-lg",
+            "v": [null]
+        },
+        {
+            "k": "align-content-md",
+            "v": [null]
+        },
+        {
+            "k": "align-content-sm",
+            "v": [null]
+        },
+        {
+            "k": "align-content-xl",
+            "v": [null]
+        },
+        {
+            "k": "align-lg",
+            "v": [null]
+        },
+        {
+            "k": "align-md",
+            "v": [null]
+        },
+        {
+            "k": "align-sm",
+            "v": [null]
+        },
+        {
+            "k": "align-xl",
+            "v": [null]
+        },
+        {
+            "k": "dense",
+            "v": [true, false]
+        },
+        {
+            "k": "justify",
+            "v": ["start", "center", "end", "space-between", "space-around"]
+        },
+        {
+            "k": "justify-lg",
+            "v": [null]
+        },
+        {
+            "k": "justify-md",
+            "v": [null]
+        },
+        {
+            "k": "justify-sm",
+            "v": [null]
+        },
+        {
+            "k": "justify-xl",
+            "v": [null]
+        },
+        {
+            "k": "no-gutters",
+            "v": [true, false]
+        },
+        {
+            "k": "tag",
+            "v": ["div"]
+        }
+    ]
+}

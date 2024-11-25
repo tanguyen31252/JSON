@@ -1,0 +1,299 @@
+{
+    "t": "v-combobox",
+    "a": [
+      {
+        "k": "append-icon",
+        "v": [null]
+      },
+      {
+        "k": "append-outer-icon",
+        "v": [null]
+      },
+      {
+        "k": "attach",
+        "v": [null]
+      },
+      {
+        "k": "auto-select-first",
+        "v": [true, false]
+      },
+      {
+        "k": "autofocus",
+        "v": [true, false]
+      },
+      {
+        "k": "background-color",
+        "v": [null]
+      },
+      {
+        "k": "cache-items",
+        "v": [true, false]
+      },
+      {
+        "k": "chips",
+        "v": [true, false]
+      },
+      {
+        "k": "clear-icon",
+        "v": [null]
+      },
+      {
+        "k": "clearable",
+        "v": [true, false]
+      },
+      {
+        "k": "color",
+        "v": [null]
+      },
+      {
+        "k": "counter",
+        "v": [null]
+      },
+      {
+        "k": "counter-value",
+        "v": [null]
+      },
+      {
+        "k": "dark",
+        "v": [true, false]
+      },
+      {
+        "k": "deletable-chips",
+        "v": [true, false]
+      },
+      {
+        "k": "delimiters",
+        "v": [null]
+      },
+      {
+        "k": "dense",
+        "v": [true, false]
+      },
+      {
+        "k": "disable-lookup",
+        "v": [true, false]
+      },
+      {
+        "k": "disabled",
+        "v": [true, false]
+      },
+      {
+        "k": "eager",
+        "v": [true, false]
+      },
+      {
+        "k": "error",
+        "v": [true, false]
+      },
+      {
+        "k": "error-count",
+        "v": [1]
+      },
+      {
+        "k": "error-messages",
+        "v": [null]
+      },
+      {
+        "k": "filled",
+        "v": [true, false]
+      },
+      {
+        "k": "filter",
+        "v": [null]
+      },
+      {
+        "k": "flat",
+        "v": [true, false]
+      },
+      {
+        "k": "full-width",
+        "v": [true, false]
+      },
+      {
+        "k": "height",
+        "v": [null]
+      },
+      {
+        "k": "hide-details",
+        "v": [null]
+      },
+      {
+        "k": "hide-no-data",
+        "v": [true, false]
+      },
+      {
+        "k": "hide-selected",
+        "v": [true, false]
+      },
+      {
+        "k": "hint",
+        "v": [null]
+      },
+      {
+        "k": "id",
+        "v": [null]
+      },
+      {
+        "k": "item-color",
+        "v": [null]
+      },
+      {
+        "k": "item-disabled",
+        "v": [null]
+      },
+      {
+        "k": "item-text",
+        "v": [null]
+      },
+      {
+        "k": "item-value",
+        "v": [null]
+      },
+      {
+        "k": "items",
+        "v": [{
+            "text": [null],
+            "value": [null],
+            "disabled": [true,false],
+            "divider": [true,false],
+            "header": [null]
+      }]
+      },
+      {
+        "k": "label",
+        "v": [null]
+      },
+      {
+        "k": "light",
+        "v": [true, false]
+      },
+      {
+        "k": "loader-height",
+        "v": [2]
+      },
+      {
+        "k": "loading",
+        "v": [null]
+      },
+      {
+        "k": "menu-props",
+        "v": [null]
+      },
+      {
+        "k": "messages",
+        "v": [null]
+      },
+      {
+        "k": "multiple",
+        "v": [true, false]
+      },
+      {
+        "k": "no-data-text",
+        "v": [null]
+      },
+      {
+        "k": "no-filter",
+        "v": [true, false]
+      },
+      {
+        "k": "open-on-clear",
+        "v": [true, false]
+      },
+      {
+        "k": "outlined",
+        "v": [true, false]
+      },
+      {
+        "k": "persistent-hint",
+        "v": [true, false]
+      },
+      {
+        "k": "persistent-placeholder",
+        "v": [true, false]
+      },
+      {
+        "k": "placeholder",
+        "v": [null]
+      },
+      {
+        "k": "prefix",
+        "v": [null]
+      },
+      {
+        "k": "prepend-icon",
+        "v": [null]
+      },
+      {
+        "k": "prepend-inner-icon",
+        "v": [null]
+      },
+      {
+        "k": "readonly",
+        "v": [true, false]
+      },
+      {
+        "k": "return-object",
+        "v": [true, false]
+      },
+      {
+        "k": "reverse",
+        "v": [true, false]
+      },
+      {
+        "k": "rounded",
+        "v": [true, false]
+      },
+      {
+        "k": "rules",
+        "v": [null]
+      },
+      {
+        "k": "search-input",
+        "v": [null]
+      },
+      {
+        "k": "shaped",
+        "v": [true, false]
+      },
+      {
+        "k": "single-line",
+        "v": [true, false]
+      },
+      {
+        "k": "small-chips",
+        "v": [true, false]
+      },
+      {
+        "k": "solo",
+        "v": [true, false]
+      },
+      {
+        "k": "solo-inverted",
+        "v": [true, false]
+      },
+      {
+        "k": "success",
+        "v": [true, false]
+      },
+      {
+        "k": "success-messages",
+        "v": [null]
+      },
+      {
+        "k": "suffix",
+        "v": [null]
+      },
+      {
+        "k": "validate-on-blur",
+        "v": [true, false]
+      },
+      {
+        "k": "value",
+        "v": [null]
+      },
+      {
+        "k": "value-comparator",
+        "v": [null]
+      }
+    ]
+  }
